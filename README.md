@@ -1,5 +1,8 @@
 ### Hi there 👋
 
+[![Hello](https://media.giphy.com/media/ASd0Ukj0y3qMM/giphy.gif "Hello")](http://media.giphy.com/media/ASd0Ukj0y3qMM/giphy.gif "Hello")
+
+
 <!--
 **Teyo-c/Teyo-c** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
